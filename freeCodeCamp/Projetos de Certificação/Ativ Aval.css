@@ -1,0 +1,33 @@
+body {
+    background-color: #071033;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    font-size: 15px;
+    color: white;
+    font-family: Sans Serif;
+}
+
+h1,
+p {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-family: arial;
+    text-align: center;
+}
+
+label {
+    text-align: auto;
+    display: block;
+    margin: 0.5rem 0;
+}
+
+input {
+    text-align: center;
+}
+
+.inline {
+    width: unset;
+    margin: 0 0.5rem 0 0;
+    vertical-align: middle;
+}

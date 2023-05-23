@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Ativ Aval.css">
+    <title>Formulário de Pesquisa</title>
+</head>
+
+<body>
+    <h1 id="title">Título da Página</h1>
+
+    <p id="description">Breve explicação do formulário.</p>
+
+    <form id="survey-form">
+        <label for="name" id="name-label">Nome:</label>
+        <input type="text" id="name" required placeholder="Digite seu nome">
+
+        <label for="email" id="email-label">E-mail:</label>
+        <input type="email" id="email" required placeholder="Digite seu e-mail">
+
+        <label for="number" id="number-label">Número:</label>
+        <input type="number" id="number" min="1" max="100" placeholder="Digite um número">
+
+        <label for="dropdown">Opções:</label>
+        <select id="dropdown">
+            <option value="opcao1">Opção 1</option>
+            <option value="opcao2">Opção 2</option>
+        </select>
+
+        <label>Escolha uma opção:</label>
+        <input type="radio" name="opcao" value="opcao1"> Opção 1
+        <input type="radio" name="opcao" value="opcao2"> Opção 2
+
+        <label>Selecione as opções desejadas:</label>
+        <input type="checkbox" name="opcoes[]" value="opcao1"> Opção 1
+        <input type="checkbox" name="opcoes[]" value="opcao2"> Opção 2
+
+        <label for="comments">Comentários adicionais:</label>
+        <textarea id="comments"></textarea>
+
+        <button type="submit" id="submit">Enviar</button>
+    </form>
+</body>
+
+</html>
