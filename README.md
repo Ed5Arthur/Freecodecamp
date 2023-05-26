@@ -11,6 +11,8 @@ Termino da Ativ. 1 Cap. 2;
 Termino da Ativ. 2 Cap. 2;
 Termino da Ativ. 3 Cap. 2;
 Termino da Ativ. 4 Cap. 2;
+Projeto de Certificação 2 Finalizado;
+Termino do Capitulo 2 de Atividades;
 
 
 <!-- Isso é Tudo no Momento -->
