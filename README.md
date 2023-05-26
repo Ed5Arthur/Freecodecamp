@@ -10,7 +10,7 @@ Inicio do Capitulo 2 de Atividades;
 Termino da Ativ. 1 Cap. 2;
 Termino da Ativ. 2 Cap. 2;
 Termino da Ativ. 3 Cap. 2;
-Continuação da Ativ. 4 Cap. 2;
+Termino da Ativ. 4 Cap. 2;
 
 
 <!-- Isso é Tudo no Momento -->
