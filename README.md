@@ -17,6 +17,8 @@ Inicio do Capitulo 3 de Atividades;
 Termino da Ativ. 1 Cap. 3;
 Termino da Ativ. 2 Cap. 3;
 Termino da Ativ. 3 Cap. 3;
+Projeto de Certificação 3 Iniciado (quase finalizado);
+
 
 
 <!-- Isso é Tudo no Momento -->
